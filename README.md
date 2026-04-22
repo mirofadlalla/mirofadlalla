@@ -2,8 +2,9 @@
 
 🚀 AI Engineer | Machine Learning | Data Science | LLMs & RAG Systems.                                                 
 📍 Mansoura, Egypt
-📧 omaryaser311@gmail.com                       
-🌐 Portfolio: omar-yaser-portfolio.vercel.app
+📧 omaryaser311@gmail.com     
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://omar-yaser-portfolio.vercel.app)
 ---
 
 👨‍💻 About Me
