@@ -1,6 +1,6 @@
 👋 Hi, I'm Omar Yaser
 
-🚀 AI Engineer | Machine Learning | Data Science | LLMs & RAG Systems
+🚀 AI Engineer | Machine Learning | Data Science | LLMs & RAG Systems.                                                 
 📍 Mansoura, Egypt
 📧 omaryaser311@gmail.com
 
