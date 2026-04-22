@@ -1,196 +1,265 @@
-👋 Hi, I'm Omar Yaser
+<div align="center">
 
-🚀 AI Engineer | Machine Learning | Data Science | LLMs & RAG Systems.                                                 
+```
+██████╗ ███╗   ███╗ █████╗ ██████╗      ██╗   ██╗ █████╗ ███████╗███████╗██████╗
+██╔═══██╗████╗ ████║██╔══██╗██╔══██╗     ╚██╗ ██╔╝██╔══██╗██╔════╝██╔════╝██╔══██╗
+██║   ██║██╔████╔██║███████║██████╔╝      ╚████╔╝ ███████║███████╗█████╗  ██████╔╝
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗       ╚██╔╝  ██╔══██║╚════██║██╔══╝  ██╔══██╗
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║        ██║   ██║  ██║███████║███████╗██║  ██║
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
+
+# Hi there, I'm Omar Yaser 👋
+
+### 🤖 AI Engineer · LLMs & RAG Systems · Production ML · Data Science
+
+*Building intelligent systems that scale — from raw data to production deployment*
+
 📍 Mansoura, Egypt
 
+<br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://omar-yaser-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Yaser-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-fadlalla)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:omaryaser311@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://omar-yaser-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-fadlalla)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaryaser311@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirofadlalla)
 
-👨‍💻 About Me
-
-I am an AI Engineer with a strong foundation in Data Science, Machine Learning, and Deep Learning, experienced in building end-to-end intelligent systems from raw data to production deployment.
-
-I have worked across a wide spectrum of projects — including large-scale analytics systems, machine learning pipelines, NLP applications, and production-grade AI infrastructure — enabling me to design solutions that are both technically robust and business-driven.
+</div>
 
 ---
 
-🧠 Core Expertise
+## 🧠 About Me
 
-📊 Machine Learning & Data Science
+I'm an **AI Engineer** with deep expertise in building **end-to-end intelligent systems** — from raw data pipelines to production-grade AI infrastructure. My work sits at the intersection of Machine Learning, Deep Learning, and Large Language Models, with a relentless focus on **performance, scalability, and real business impact**.
 
-- Advanced EDA, feature engineering, and business insights
-- Regression, classification, clustering & segmentation
-- Real-world analytics pipelines
+> 💡 *I don't just build models — I build systems that ship.*
 
-🧠 Deep Learning
-
-- CNNs, RNNs, LSTM, GRU
-- Sequence modeling & NLP systems
-- PyTorch & TensorFlow
-
-🗣️ LLMs & Generative AI
-
-- Transformers & fine-tuning (LoRA / QLoRA)
-- RAG systems & retrieval optimization
-- Embeddings, FAISS, Qdrant, re-ranking
-
-⚙️ MLOps & Production Systems
-
-- FastAPI ML services
-- MLflow tracking & model versioning
-- Dockerized pipelines & async systems
+What sets my work apart:
+- 🏗️ **System Thinking** — I design full-stack AI architectures, not isolated experiments
+- 📉 **Cost & Latency Obsession** — Multi-layer caching cutting LLM costs by **60–80%**, latency under **<50ms**
+- 📈 **Research → Production** — From retrieval benchmarks to deployed APIs
+- 🌍 **Arabic NLP** — Fine-tuning LLMs for real-world Arabic language tasks
 
 ---
 
-📌 Featured Projects (Ordered by Impact)
+## 🏆 Impact Highlights
+
+<div align="center">
+
+| Metric | Result |
+|--------|--------|
+| ⚡ API Latency | **< 50ms** via 3-tier caching |
+| 💰 LLM Cost Reduction | **60–80%** through optimization |
+| 📊 Retrieval MRR | **+60%** improvement |
+| 🎯 Retrieval Precision@K | **+80%** improvement |
+| 🛒 Dataset Processed | **400K orders · 150K customers · $49.8M revenue** |
+| 🔍 ML Accuracy | XGBoost ROC-AUC **0.89** · CLV R² **0.83** |
+
+</div>
 
 ---
 
-🧠 Enterprise Multi-Tenant Agentic RAG Platform
+## 🛠️ Tech Stack
 
-🔗 https://github.com/mirofadlalla/Atlas-AI-Platform.git
+<div align="center">
 
-- Architected a production-grade multi-tenant AI system with strict tenant isolation & JWT authentication
-- Built hybrid retrieval pipeline (Dense + BM25 + Re-ranking) using Qdrant
-- Implemented LLM pipelines with streaming + cost tracking
-- Fine-tuned Qwen2.5-1.5B (LoRA/QLoRA) for Arabic tasks
-- Designed 3-tier caching (RAM + Redis + DB) → reduced latency to <50ms and cost by 60–80%
-- Added full observability (Prometheus + Grafana) for latency & token tracking
+**AI / ML / LLMs**
 
-👉 Shows: System Design + LLMs + Scalability + Production Thinking
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
----
+**Vector DBs & Retrieval**
 
-🛒 E-Commerce Customer Analytics & Predictive Modeling
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-🔗 https://github.com/mirofadlalla/ecommerce-customer-analytics-ml-pipeline
+**MLOps & Infrastructure**
 
-- Built end-to-end data science pipeline (data → insights → ML → APIs → dashboards)
-- Processed 400K orders, 150K customers, $49.8M revenue dataset
-- Performed deep EDA uncovering:
-  - Return losses > $6M
-  - Retention only 5–7%
-- Engineered features (RFM, return rates, behavioral signals)
-- Trained models:
-  - XGBoost (ROC-AUC 0.89)
-  - CLV prediction (R² = 0.83)
-  - Segmentation (KMeans)
-- Deployed FastAPI APIs + Power BI dashboards
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
-👉 Shows: Data + ML + Business Impact + Full Pipeline
+**Data & Analytics**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-📊 Marketing Campaign Optimization System
-
-🔗 https://github.com/mirofadlalla/Marketing-Campaign-Optimization-System
-
-- Designed an end-to-end ML system for predicting conversion rates across 200K+ campaigns
-- Built full pipeline:
-  - Data preprocessing + feature engineering
-  - Model training + evaluation + deployment
-- Integrated MLflow for experiment tracking & model registry
-- Deployed FastAPI REST API for real-time predictions
-- Performed multi-channel & segmentation analysis (CTR, ROI, engagement)
-- Implemented data drift detection & monitoring
-
-👉 Shows: Production ML + Analytics + MLOps
+</div>
 
 ---
 
-🔬 DeepRAG – MLOps-Ready RAG System
+## 🚀 Featured Projects
 
-🔗 https://github.com/mirofadlalla/DeepRAG
+### 🧠 [Atlas AI Platform — Enterprise Multi-Tenant Agentic RAG](https://github.com/mirofadlalla/Atlas-AI-Platform)
 
-- Built modular RAG pipeline (FAISS IVF + BM25 + re-ranking)
-- Improved retrieval metrics:
-  - MRR +60%
-  - Precision@K +80%
-- Implemented:
-  - Hallucination detection
-  - Answer grounding validation
-  - Retrieval stability tracking
-- Integrated MLflow for full lifecycle tracking
+> *Production-grade multi-tenant AI platform with strict isolation, hybrid retrieval, and full observability*
 
-👉 Shows: Advanced Retrieval + Evaluation + Research Thinking
+```
+Architecture: Multi-Tenant SaaS · Agentic RAG · LLM Fine-tuning · Real-time Streaming
+```
 
----
+- 🏛️ **Multi-tenant architecture** with strict data isolation & JWT authentication
+- 🔍 **Hybrid retrieval pipeline**: Dense vectors + BM25 + Re-ranking (Qdrant)
+- ⚡ **3-tier caching** (RAM → Redis → DB) → latency **< 50ms**, cost cut **60–80%**
+- 🇸🇦 **Fine-tuned Qwen2.5-1.5B** (LoRA/QLoRA) for Arabic language tasks
+- 📊 **Full observability** via Prometheus + Grafana (latency, token usage, cost)
+- 🌊 **LLM streaming** with real-time cost tracking per request
 
-⚙️ LLMOps Platform
-
-🔗 https://github.com/mirofadlalla/LLM-Platform-LLMOps-System.git
-
-- Built system for prompt management & evaluation at scale
-- Implemented:
-  - Prompt versioning
-  - Regression testing
-  - LLM-based evaluation
-- Async processing with Celery + PostgreSQL
-- Production-ready backend practices (auth, logging, tracing)
-
-👉 Shows: LLMOps + Backend Engineering
+`System Design` `LLMs` `RAG` `Scalability` `Production` `Arabic NLP`
 
 ---
 
-🤖 NeuroRAG-Agent
+### 🛒 [E-Commerce Customer Analytics & Predictive ML Pipeline](https://github.com/mirofadlalla/ecommerce-customer-analytics-ml-pipeline)
 
-🔗 https://github.com/mirofadlalla/NeuroRAG-Agent.git
+> *Full-stack data science pipeline: 400K orders → business insights → deployed ML APIs*
 
-- Designed agent-based AI system (planner + memory + tools)
-- Implemented query expansion & hybrid retrieval
-- Built semantic memory with temporal decay
+```
+Dataset: 400K orders · 150K customers · $49.8M revenue
+```
 
-👉 Shows: Agent Systems + AI Architecture
+- 📊 Deep EDA uncovering **>$6M return losses** and only **5–7% retention rate**
+- 🔢 **Feature engineering**: RFM scores, return rates, behavioral signals
+- 🤖 **ML models deployed**:
+  - XGBoost churn predictor: **ROC-AUC 0.89**
+  - Customer Lifetime Value: **R² = 0.83**
+  - Customer segmentation via KMeans
+- 🚀 **FastAPI REST APIs** + **Power BI dashboards** for stakeholder reporting
 
----
-
-🧩 Additional Projects & Experience
-
-I have also built multiple projects across different domains, demonstrating strong versatility:
-
-📊 Data Analysis & SQL Systems
-
-- Coffee Sales Insights (market expansion analysis using SQL)
-- Pizza Sales & Customer Segmentation
-- Library Management System (DDL, DML, procedures, reporting)
-- Netflix Database System
-
-🤖 Machine Learning Projects
-
-- Uber Fare Prediction & Trip Analysis
-- Marketing analytics & optimization pipelines
-- Fraud detection (bill authentication)
-
-🧠 NLP Applications
-
-- Resume Analyzer & Classification Systems
-- Sentiment Analysis (RoBERTa + classical NLP)
-- Twitter NLP preprocessing pipelines
-- FastAPI NLP APIs with authentication & rate limiting
-
-⚙️ Systems & Foundations
-
-- Compiler project (high-level → assembly pipeline)
-  👉 Strong foundation in algorithms, systems thinking, and architecture
+`Data Science` `Machine Learning` `Business Impact` `FastAPI` `Power BI`
 
 ---
 
-🎯 Current Focus
+### 📊 [Marketing Campaign Optimization System](https://github.com/mirofadlalla/Marketing-Campaign-Optimization-System)
 
-- Building end-to-end AI systems (Data → ML → LLM → Production)
-- Designing scalable RAG & agent architectures
-- Improving latency, cost, and performance
-- Bridging data analysis with intelligent AI systems
+> *End-to-end ML system predicting conversion rates across 200K+ campaigns*
 
----
+- 🎯 Full ML pipeline: preprocessing → feature engineering → training → deployment
+- 📦 **MLflow** for experiment tracking, model registry & versioning
+- ⚠️ **Data drift detection** & production monitoring
+- 🔌 **FastAPI** real-time prediction endpoint
+- 📈 Multi-channel analysis: CTR, ROI, engagement segmentation
 
-📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/omar-fadlalla
-- 🌍 GitHub: You're already here 😉
+`Production ML` `MLOps` `MLflow` `FastAPI` `Analytics`
 
 ---
 
-💡 Engineering AI systems that deliver real impact — from data to production.
+### 🔬 [DeepRAG — MLOps-Ready Advanced RAG System](https://github.com/mirofadlalla/DeepRAG)
+
+> *Research-grade RAG system with full evaluation framework and MLflow lifecycle tracking*
+
+- 🔍 **Modular hybrid retrieval**: FAISS IVF + BM25 + Cross-encoder re-ranking
+- 📈 Retrieval improvements: **MRR +60%** · **Precision@K +80%**
+- 🛡️ **Hallucination detection** + answer grounding validation
+- 📊 **Retrieval stability tracking** integrated with MLflow
+
+`Advanced RAG` `Retrieval` `Evaluation` `Research` `MLflow`
+
+---
+
+### ⚙️ [LLMOps Platform](https://github.com/mirofadlalla/LLM-Platform-LLMOps-System)
+
+> *Scalable platform for prompt management, versioning, and LLM evaluation at scale*
+
+- 🗂️ **Prompt versioning** with regression testing framework
+- 🤖 **LLM-as-judge** evaluation system
+- 🔄 **Async processing** via Celery + PostgreSQL
+- 🔐 Production-ready: auth, structured logging, distributed tracing
+
+`LLMOps` `Prompt Engineering` `Backend` `Celery` `PostgreSQL`
+
+---
+
+### 🤖 [NeuroRAG-Agent](https://github.com/mirofadlalla/NeuroRAG-Agent)
+
+> *Agent-based AI system with planning, semantic memory, and hybrid retrieval*
+
+- 🧩 Modular agent: **planner + memory + tool use**
+- 🔍 **Query expansion** + hybrid retrieval pipeline
+- 🧠 **Semantic memory** with temporal decay modeling
+
+`Agent Systems` `AI Architecture` `Memory` `Planning`
+
+---
+
+## 📁 Other Projects
+
+<details>
+<summary><b>📊 Data Analytics & SQL</b></summary>
+
+- **Coffee Sales Insights** — Market expansion analysis via SQL
+- **Pizza Sales & Customer Segmentation** — BI + behavioral analytics
+- **Library Management System** — DDL, DML, stored procedures, reporting
+- **Netflix Database System** — Complex query systems & analysis
+
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning</b></summary>
+
+- **Uber Fare Prediction** — Regression + trip analysis
+- **Fraud Detection** — Bill authentication with ensemble methods
+- **Marketing Analytics Pipelines** — Conversion & ROI optimization
+
+</details>
+
+<details>
+<summary><b>🗣️ NLP Applications</b></summary>
+
+- **Resume Analyzer & Classifier** — NLP-powered document intelligence
+- **Sentiment Analysis** — RoBERTa fine-tuning + classical NLP
+- **Twitter NLP Pipelines** — Preprocessing & text normalization
+- **FastAPI NLP Services** — Auth + rate limiting + production deployment
+
+</details>
+
+<details>
+<summary><b>⚙️ Systems & Foundations</b></summary>
+
+- **Compiler Project** — High-level language → assembly pipeline
+  > *Strong foundation in algorithms, parsing, and systems architecture*
+
+</details>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔭 Building next-gen **Agentic RAG** systems with multi-step reasoning
+- 🌍 Advancing **Arabic NLP** capabilities through LLM fine-tuning
+- ⚡ Pushing latency & cost optimization in production AI infrastructure
+- 🔗 Exploring **multi-modal AI** systems integration
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+| Channel | Link |
+|---------|------|
+| 💼 LinkedIn | [linkedin.com/in/omar-fadlalla](https://www.linkedin.com/in/omar-fadlalla) |
+| 🌐 Portfolio | [omar-yaser-portfolio.vercel.app](https://omar-yaser-portfolio.vercel.app) |
+| 📧 Email | [omaryaser311@gmail.com](mailto:omaryaser311@gmail.com) |
+
+**🚀 Open to AI/ML roles and collaborations**
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering AI systems that deliver real impact — from data to production."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=mirofadlalla&color=0e75b6&style=flat-square)
+
+</div>
