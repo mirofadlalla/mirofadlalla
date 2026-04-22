@@ -1,97 +1,255 @@
-# 👋 Hi, I'm Omar Yaser
+<div align="center">👋 Omar Fadlallah
 
-🚀 **AI Engineer | Machine Learning Specialist | Data Analyst**
-🎓 Computer Science (Software Engineering Minor) — Mansoura University
+🚀 Machine Learning Engineer · AI Engineer · LLMs · RAG Systems
+
+   
+
+</div>
+---
+
+🧠 Summary
+
+Machine Learning Engineer specializing in LLMs, Retrieval-Augmented Generation (RAG), and Production AI Systems.
+
+I build scalable, low-latency AI infrastructure with real-world impact:
+
+⚡ Sub-50ms retrieval latency
+
+💰 Up to 80% cost reduction in LLM pipelines
+
+📊 Production-grade observability & monitoring
+
+
+Strong focus on LLMOps, distributed systems, and AI reliability engineering (drift, evaluation, monitoring).
+
 
 ---
 
-## 👨‍💻 About Me
+🎓 Education
 
-I am a highly driven **AI Engineer** with a strong foundation in **Data Analysis, Machine Learning, Deep Learning, and Generative AI**. I started my journey in **web development** (Laravel, Node.js) and gradually transitioned into **AI & Machine Learning**, where I now focus on building **scalable, production‑ready intelligent systems**.
+B.Sc. Computer Science (Ongoing)
+Mansoura University — Faculty of Computers & Information
+📅 2022 → 2026 (Expected)
+🎯 GPA: 3.7/4.0
 
-I have hands‑on experience across the **entire AI lifecycle** — from data exploration and feature engineering to model training, evaluation, deployment, and monitoring. I enjoy working on **real‑world problems**, transforming raw data into actionable insights, and delivering AI solutions that actually work in production.
+☁️ AWS Practical Training (DataCamp)
 
----
+EC2 · S3 · RDS · Lambda · IAM
 
-## 🧠 Core Expertise
+Cloud-based ML deployment workflows
 
-### 📊 Data Analysis & Visualization
 
-* Advanced EDA (Pandas‑Profiling, Sweetviz)
-* Data storytelling & business insights
-* SQL, Power BI dashboards
-
-### 🤖 Machine Learning
-
-* Regression, Classification, Clustering
-* Feature Engineering & Selection
-* Model Evaluation & Hyperparameter Tuning
-* Ensemble Models (Random Forest, XGBoost)
-
-### 🧠 Deep Learning
-
-* Neural Networks (MLP, CNN, RNN, LSTM, GRU)
-* Sequence Models & Time Series
-* TensorFlow & PyTorch
-
-### 🗣️ NLP & Generative AI
-
-* Text preprocessing & embeddings
-* Transformers & Attention mechanisms
-* Fine‑tuning LLMs & Prompt Engineering
-* RAG Systems (FAISS, Cross‑Encoders, Re‑Ranking)
-
-### 🚀 MLOps & Deployment
-
-* FastAPI for ML services
-* Docker & environment management
-* Model serving & versioning
-* End‑to‑end ML pipelines
 
 ---
 
-## 🛠️ Tech Stack
+🧠 Core Expertise
 
-**Languages:** Python, SQL, JavaScript
-**AI/ML:** NumPy, Pandas, Scikit‑Learn, TensorFlow, PyTorch
-**NLP & GenAI:** HuggingFace, FAISS, LangChain
-**Backend & APIs:** FastAPI, Flask, Node.js, Laravel
-**DevOps:** Docker, Git, GitHub
-**Tools:** Jupyter, VS Code, Power BI
+🤖 LLMs & Generative AI
+
+RAG Systems (Hybrid Retrieval + Reranking)
+
+LoRA / QLoRA Fine-tuning
+
+Prompt Engineering & Agentic AI
+
+
+⚙️ MLOps & Production AI
+
+MLflow · ZenML · Docker · Celery
+
+Model tracking & experiment management
+
+Monitoring, logging & data drift detection
+
+
+🔍 NLP & Retrieval Systems
+
+FAISS · BM25 · Cross-Encoders
+
+Semantic Search & Embeddings (BGE-M3)
+
+Hybrid Retrieval Architectures
+
+
+📊 Machine Learning
+
+XGBoost · Scikit-Learn
+
+Feature Engineering · Model Evaluation
+
+
+☁️ Backend & Infra
+
+FastAPI · PostgreSQL · Redis
+
+Qdrant Vector DB
+
+Prometheus · Grafana
+
+
 
 ---
 
-## 📌 Featured Projects
+🚀 Featured Projects
 
-* **HR Bonus Prediction System**
-  End‑to‑end ML pipeline predicting employee bonuses using structured HR data.
+🏢 Atlas AI Platform — Enterprise Agentic RAG
 
-* **Uber Revenue Optimization**
-  Deep data analysis project extracting insights to improve pricing and demand.
+🔗 https://github.com/mirofadlalla/Atlas-AI-Platform
 
-* **RAG‑Based Question Answering System**
-  Built a production‑style Retrieval‑Augmented Generation system with embeddings, FAISS indexing, caching, and cross‑encoder re‑ranking.
+> Production multi-tenant AI system for enterprise document QA
 
-* **Flow‑Free Puzzle Game Engine**
-  Algorithmic puzzle system using DFS/BFS to guarantee solvable levels.
 
----
 
-## 🎯 Current Focus
+Secure multi-tenant architecture (JWT + isolation)
 
-* Advanced **Generative AI & LLM systems**
-* **Scalable RAG architectures**
-* **MLOps & production AI pipelines**
-* Building **high‑impact AI projects** for real‑world use
+Hybrid retrieval: Dense + BM25 + Reranking (Qdrant)
 
----
+3-tier caching system → ⚡ <50ms latency
 
-## 📫 Let's Connect
+60–80% LLM cost reduction
 
-* 💼 LinkedIn: www.linkedin.com/in/omar-fadlalla
-* 📧 Email: omaryaser311@gmailcom
-* 🌍 GitHub: You’re already here 😉
+Fine-tuned Qwen2.5 (LoRA/QLoRA) for Arabic
+
+Full observability (Prometheus + Grafana)
+
+
 
 ---
 
-> *“Turning data into intelligence, and intelligence into impact.”*
+📚 DeepRAG — MLOps RAG System
+
+🔗 https://github.com/mirofadlalla/DeepRAG
+
+FAISS IVF + BM25 + Cross-Encoder pipeline
+
++60% MRR improvement
+
++80% Recall@K improvement
+
+MLflow experiment tracking
+
+Data drift detection (cosine + Jaccard similarity)
+
+Hallucination detection & grounding evaluation
+
+
+
+---
+
+⚙️ LLMOps Platform
+
+🔗 https://github.com/mirofadlalla/LLM-Platform-LLMOps-System
+
+FastAPI + Docker LLMOps backend
+
+Prompt versioning & regression testing
+
+Async workflows (Celery)
+
+PostgreSQL + SQLAlchemy + Alembic
+
+LLM-based evaluation engine
+
+
+
+---
+
+🧪 Qwen LLM Fine-Tuning (LoRA/QLoRA)
+
+🔗 https://github.com/mirofadlalla/Qwen-LLM-Fine-Tuning-LoRA-QLoRA
+
+Fine-tuned Qwen2.5-1.5B-Instruct
+
+4-bit quantization (bitsandbytes)
+
+LoRA adapters (r=16, α=32)
+
+vLLM deployment with runtime LoRA injection
+
+
+
+---
+
+🧠 NeuroRAG-Agent
+
+🔗 https://github.com/mirofadlalla/NeuroRAG-Agent
+
+Hybrid RAG + RRF + reranking
+
+Memory-driven agent system
+
+Query expansion + fusion
+
+Planner / Executor / Tool architecture
+
+
+
+---
+
+🛒 E-Commerce ML Pipeline
+
+🔗 https://github.com/mirofadlalla/ecommerce-customer-analytics-ml-pipeline
+
+400K+ orders · $49.8M revenue analysis
+
+RFM segmentation & feature engineering
+
+XGBoost (AUC 0.89)
+
+FastAPI deployment + Power BI dashboards
+
+Detected $6M+ revenue loss insights
+
+
+
+---
+
+📣 Marketing Campaign Optimization
+
+200K+ campaign dataset (6 channels)
+
+Conversion rate prediction ML system
+
+ZenML pipeline + MLflow registry
+
+FastAPI production deployment
+
+Data drift monitoring integrated
+
+
+
+---
+
+🛠️ Tech Stack
+
+Languages: Python · SQL · JavaScript
+AI/ML: PyTorch · TensorFlow · Scikit-Learn
+LLMs: HuggingFace · PEFT · vLLM · LangChain
+RAG: FAISS · Qdrant · BM25 · BGE-M3
+MLOps: MLflow · ZenML · Docker · Celery
+Backend: FastAPI · Flask · PostgreSQL · Redis
+Monitoring: Prometheus · Grafana
+Cloud: AWS (EC2 · S3 · RDS · Lambda)
+
+
+---
+
+🎯 Current Focus
+
+Production LLM Systems at scale
+
+Agentic AI architectures
+
+Cost-efficient inference optimization
+
+Data drift & AI reliability systems
+
+Real-world deployable AI products
+
+
+
+---
+
+<div align="center">💡 "From models → systems → production AI that scales."
+
+</div>
