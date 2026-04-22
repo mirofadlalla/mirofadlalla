@@ -1,4 +1,4 @@
-ل👋 Hi, I'm Omar Yaser
+👋 Hi, I'm Omar Yaser
 
 🚀 AI Engineer | Machine Learning | Data Science | LLMs & RAG Systems.                                                 
 📍 Mansoura, Egypt
