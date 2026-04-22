@@ -85,6 +85,8 @@ I have worked across a wide spectrum of projects — including large-scale analy
 
 📊 Marketing Campaign Optimization System
 
+🔗 https://github.com/mirofadlalla/Marketing-Campaign-Optimization-System
+
 - Designed an end-to-end ML system for predicting conversion rates across 200K+ campaigns
 - Built full pipeline:
   - Data preprocessing + feature engineering
