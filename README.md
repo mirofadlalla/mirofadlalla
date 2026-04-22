@@ -1,11 +1,12 @@
-👋 Hi, I'm Omar Yaser
+ل👋 Hi, I'm Omar Yaser
 
 🚀 AI Engineer | Machine Learning | Data Science | LLMs & RAG Systems.                                                 
 📍 Mansoura, Egypt
-📧 omaryaser311@gmail.com     
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://omar-yaser-portfolio.vercel.app)
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Yaser-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/omar-fadlalla)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:omaryaser311@gmail.com)
 
 👨‍💻 About Me
 
