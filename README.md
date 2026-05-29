@@ -178,18 +178,6 @@ Dataset: 400K orders · 150K customers · $49.8M revenue
 
 ---
 
-### 🤖 [NeuroRAG-Agent](https://github.com/mirofadlalla/NeuroRAG-Agent)
-
-> *Agent-based AI system with planning, semantic memory, and hybrid retrieval*
-
-- 🧩 Modular agent: **planner + memory + tool use**
-- 🔍 **Query expansion** + hybrid retrieval pipeline
-- 🧠 **Semantic memory** with temporal decay modeling
-
-`Agent Systems` `AI Architecture` `Memory` `Planning`
-
----
-
 ## 📁 Other Projects
 
 <details>
