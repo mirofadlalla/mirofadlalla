@@ -11,7 +11,7 @@
 
 # Hi there, I'm Omar Yaser 👋
 
-### 🤖 AI Engineer · LLMs & RAG Systems · Production ML · Data Science
+### 🤖 AI Engineer · LLMs & RAG Systems · Production ML · Computational Biology · Data Science
 
 *Building intelligent systems that scale — from raw data to production deployment*
 
@@ -30,7 +30,7 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** with deep expertise in building **end-to-end intelligent systems** — from raw data pipelines to production-grade AI infrastructure. My work sits at the intersection of Machine Learning, Deep Learning, and Large Language Models, with a relentless focus on **performance, scalability, and real business impact**.
+I'm an **AI Engineer** with deep expertise in building **end-to-end intelligent systems** — from raw data pipelines to production-grade AI infrastructure. My work spans Machine Learning, Deep Learning, Large Language Models, Vision-Language Models, and Computational Biology, with a relentless focus on **performance, scalability, and real business impact**.
 
 > 💡 *I don't just build models — I build systems that ship.*
 
@@ -38,7 +38,8 @@ What sets my work apart:
 - 🏗️ **System Thinking** — I design full-stack AI architectures, not isolated experiments
 - 📉 **Cost & Latency Obsession** — Multi-layer caching cutting LLM costs by **60–80%**, latency under **<50ms**
 - 📈 **Research → Production** — From retrieval benchmarks to deployed APIs
-- 🌍 **Arabic NLP** — Fine-tuning LLMs for real-world Arabic language tasks
+- 🌍 **Arabic NLP & OCR** — Fine-tuning LLMs and VLMs for real-world Arabic language tasks
+- 🔬 **Computational Biology** — Bridging AI and drug discovery at scale
 
 ---
 
@@ -54,6 +55,10 @@ What sets my work apart:
 | 🎯 Retrieval Precision@K | **+80%** improvement |
 | 🛒 Dataset Processed | **400K orders · 150K customers · $49.8M revenue** |
 | 🔍 ML Accuracy | XGBoost ROC-AUC **0.89** · CLV R² **0.83** |
+| 🔤 Arabic OCR CER | **0.74 → 0.22** (70% improvement) |
+| 🧪 Drug Screening | **5,000+ approved drugs** screened per run |
+| ⚗️ ADMET Inference | **10s → 150ms** on CPU (async optimization) |
+| 🗂️ Chemical RAG | **1M+ PubChem compounds** · sub-100ms retrieval |
 
 </div>
 
@@ -63,13 +68,15 @@ What sets my work apart:
 
 <div align="center">
 
-**AI / ML / LLMs**
+**AI / ML / LLMs / VLMs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LlamaFactory](https://img.shields.io/badge/LlamaFactory-6B21A8?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-00A86B?style=flat-square)
 
 **Vector DBs & Retrieval**
 
@@ -77,9 +84,18 @@ What sets my work apart:
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**Computational Biology**
+
+![RDKit](https://img.shields.io/badge/RDKit-2E8B57?style=flat-square)
+![Chemprop](https://img.shields.io/badge/Chemprop-005F73?style=flat-square)
+![OpenMM](https://img.shields.io/badge/OpenMM-0077B6?style=flat-square)
+![DeepPurpose](https://img.shields.io/badge/DeepPurpose-6A0572?style=flat-square)
+![AmberTools](https://img.shields.io/badge/AmberTools-FF6B35?style=flat-square)
+
 **MLOps & Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -99,6 +115,23 @@ What sets my work apart:
 
 ## 🚀 Featured Projects
 
+### 🔬 [Computational Drug Discovery & Repurposing Platform](https://github.com/mirofadlalla/computational-drug-discovery) ⭐ Graduation Project
+
+> *Production-grade computational biology platform unifying Chemical RAG, ADMET prediction, drug repurposing, and molecular dynamics simulation into a single async backend*
+
+```
+Stack: Flask · FAISS-IVF · RDKit · Chemprop · PyTorch Lightning · DeepPurpose · OpenMM · AmberTools · PyTraj · Docker · asyncio
+```
+
+- 🧬 **Chemical RAG at Scale**: FAISS-IVF index over **1M+ PubChem compounds** with 2048-bit Morgan Fingerprints — sub-100ms similarity retrieval; enriched Llama-3.1-8B with RDKit physicochemical properties instead of fine-tuning
+- ⚗️ **ADMET Optimization**: Evolved 5 MPNN models (Chemprop) from sequential pipeline (**~10–12s**) to fully async concurrent inference — achieving **50–150ms** single-molecule prediction on CPU only
+- 💊 **Drug Repurposing Pipeline**: High-throughput screening of **5,000+ approved drugs** against protein targets using DeepPurpose binding-affinity models + automated Open Targets & UniProt enrichment
+- 🔬 **Molecular Dynamics**: 9-step scientific protocol (PDBFixer → AmberTools → OpenMM → PyTraj RMSD analysis) productized into a single autonomous API with real-time status updates
+- 📦 **Offline-first architecture**: Local PDB cache + TDC drug data — delivering **10x+ latency improvement** under poor network conditions; deployed via multi-stage Docker
+
+`Computational Biology` `Drug Discovery` `Chemical RAG` `ADMET` `Async` `Production` `Docker`
+
+---
 ### 🧠 [Atlas AI Platform — Enterprise Multi-Tenant Agentic RAG](https://github.com/mirofadlalla/Atlas-AI-Platform)
 
 > *Production-grade multi-tenant AI platform with strict isolation, hybrid retrieval, and full observability*
@@ -115,6 +148,23 @@ Architecture: Multi-Tenant SaaS · Agentic RAG · LLM Fine-tuning · Real-time S
 - 🌊 **LLM streaming** with real-time cost tracking per request
 
 `System Design` `LLMs` `RAG` `Scalability` `Production` `Arabic NLP`
+
+---
+
+### 🔤 [Arabic Legal OCR — Fine-tuning Vision-Language Models for Structured Extraction](https://github.com/mirofadlalla/ArabicOCR-VLM-Pipeline)
+
+> *Production VLM fine-tuning pipeline achieving 70% CER improvement on Arabic legal documents*
+
+```
+Stack: PyTorch · LlamaFactory · LoRA/QLoRA · vLLM · Gemma-3-4b-it · HuggingFace PEFT
+```
+
+- 🎯 **Fine-tuned Gemma-3-4b-it** (4B params) using LoRA on Arabic legal documents: CER **0.74 → 0.22** — a **70% improvement** — lifting OCR accuracy from **~26% to ~78%**
+- 📜 **Data Pipeline**: Scraped and processed **72+ legal documents** from the Saudi Ministry of Justice API; used knowledge distillation with Gemini 2.5 Pro to generate structured JSON training labels
+- 🗂️ **Dual-task extraction**: Outputs structured document content + metadata (issuing authority, dates, signatures) with confidence scoring
+- ⚡ **Production inference**: Deployed via vLLM with multi-LoRA support; trained with 4-bit NF4 quantization on a consumer **RTX 4050 GPU**
+
+`Arabic NLP` `OCR` `Vision-Language Models` `LoRA` `vLLM` `Fine-tuning` `Legal AI`
 
 ---
 
@@ -222,7 +272,8 @@ Dataset: 400K orders · 150K customers · $49.8M revenue
 ## 🎯 Currently Working On
 
 - 🔭 Building next-gen **Agentic RAG** systems with multi-step reasoning
-- 🌍 Advancing **Arabic NLP** capabilities through LLM fine-tuning
+- 🌍 Advancing **Arabic NLP** capabilities through LLM & VLM fine-tuning
+- 🧬 Pushing the frontier of **AI in Computational Biology**
 - ⚡ Pushing latency & cost optimization in production AI infrastructure
 - 🔗 Exploring **multi-modal AI** systems integration
 
