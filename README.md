@@ -115,7 +115,7 @@ What sets my work apart:
 
 ## 🚀 Featured Projects
 
-### 🔬 [Computational Drug Discovery & Repurposing Platform](https://github.com/mirofadlalla/computational-drug-discovery) ⭐ Graduation Project
+### 🔬 [Computational Drug Discovery & Repurposing Platform](https://github.com/Yasmeen-code/AILIXIR_BackEnd) ⭐ Graduation Project
 
 > *Production-grade computational biology platform unifying Chemical RAG, ADMET prediction, drug repurposing, and molecular dynamics simulation into a single async backend*
 
