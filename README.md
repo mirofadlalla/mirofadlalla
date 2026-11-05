@@ -196,16 +196,6 @@ I'm an AI Engineer specializing in **Agentic AI and RAG systems engineering**. M
 
 ---
 
-## 💼 Experience
-
-- **Analytics & Agentic AI Intern**, Kayfa (Jun 2026 – present)
-- **AI Engineer Intern**, Devoteam, remote (Dec 2025 – Feb 2026): real-time drowsiness detector (OpenCV, TensorFlow, ONNX; 97.4% eye-state accuracy) and two enterprise AI proofs of concept
-- **Backend Software Engineer (Part-Time)**, Evolutionary Mobile Coding (Aug 2024 – Jul 2025): Laravel APIs and database optimization in a 5-person team
-
-**Certifications:** NVIDIA DLI Generative AI Professional Track (with ITI) · NVIDIA DLI Building LLM Applications With Prompt Engineering · NTI AI for Business
-
----
-
 ## 🎯 Currently
 
 - 🚀 Taking **AiLixir** toward commercialization
