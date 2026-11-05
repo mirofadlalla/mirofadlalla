@@ -1,28 +1,16 @@
 <div align="center">
 
-```
-██████╗ ███╗   ███╗ █████╗ ██████╗      ██╗   ██╗ █████╗ ███████╗███████╗██████╗
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗     ╚██╗ ██╔╝██╔══██╗██╔════╝██╔════╝██╔══██╗
-██║   ██║██╔████╔██║███████║██████╔╝      ╚████╔╝ ███████║███████╗█████╗  ██████╔╝
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗       ╚██╔╝  ██╔══██║╚════██║██╔══╝  ██╔══██╗
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║        ██║   ██║  ██║███████║███████╗██║  ██║
- ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+# Hi, I'm Omar Fadlallah 👋
 
-# Hi there, I'm Omar Yaser 👋
+### AI Engineer · Agentic AI & RAG Systems · LLM/VLM Fine-tuning · Production ML
 
-### 🤖 AI Engineer · LLMs & RAG Systems · Production ML · Computational Biology · Data Science
+*I build AI systems that ship, from raw data and retrieval to deployed, observable services.*
 
-*Building intelligent systems that scale — from raw data to production deployment*
-
-📍 Mansoura, Egypt
-
-<br>
+📍 Cairo, Egypt · 🎓 B.Sc. Computer Science, Mansoura University (2026)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://omar-yaser-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-fadlalla)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaryaser311@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirofadlalla)
 
 </div>
 
@@ -30,37 +18,28 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** with deep expertise in building **end-to-end intelligent systems** — from raw data pipelines to production-grade AI infrastructure. My work spans Machine Learning, Deep Learning, Large Language Models, Vision-Language Models, and Computational Biology, with a relentless focus on **performance, scalability, and real business impact**.
+I'm an AI Engineer specializing in **Agentic AI and RAG systems engineering**. My path went from backend engineering and data analytics/BI, through classical ML, into production-grade LLM systems, so I care about the whole stack: retrieval quality, security, latency, cost, evaluation and deployment.
 
-> 💡 *I don't just build models — I build systems that ship.*
+- 🏗️ **Systems, not demos**: multi-tenant isolation, CI/CD, observability, circuit breakers and rollbacks
+- 🔎 **Measured improvements**: every metric below comes with a baseline
+- 🌍 **Arabic NLP**: LLM/VLM fine-tuning, OCR, TTS data pipelines, bilingual voice agents
+- 🧬 **AI for science**: drug discovery and spectroscopy, where correctness matters
 
-What sets my work apart:
-- 🏗️ **System Thinking** — I design full-stack AI architectures, not isolated experiments
-- 📉 **Cost & Latency Obsession** — Multi-layer caching cutting LLM costs by **60–80%**, latency under **<50ms**
-- 📈 **Research → Production** — From retrieval benchmarks to deployed APIs
-- 🌍 **Arabic NLP & OCR** — Fine-tuning LLMs and VLMs for real-world Arabic language tasks
-- 🔬 **Computational Biology** — Bridging AI and drug discovery at scale
+**Currently:** Analytics & Agentic AI Intern at **Kayfa** (Jun 2026 – present), building hybrid-RAG advising agents and analytics dashboards, while finishing and commercializing my graduation project, AiLixir.
 
 ---
 
-## 🏆 Impact Highlights
+## 🏆 Highlights
 
-<div align="center">
-
-| Metric | Result |
-|--------|--------|
-| ⚡ API Latency | **< 50ms** via 3-tier caching |
-| 💰 LLM Cost Reduction | **60–80%** through optimization |
-| 📊 Retrieval MRR | **+60%** improvement |
-| 🎯 Retrieval Precision@K | **+80%** improvement |
-| 🛒 Dataset Processed | **400K orders · 150K customers · $49.8M revenue** |
-| 🔍 ML Accuracy | XGBoost ROC-AUC **0.89** · CLV R² **0.83** |
-| 🔤 Arabic OCR CER | **0.74 → 0.22** (70% improvement) |
-| 🧪 Drug Screening | **5,000+ approved drugs** screened per run |
-| ⚗️ ADMET Inference | **10s → 150ms** on CPU (async optimization) |
-| 🗂️ Chemical RAG | **1M+ PubChem compounds** · sub-100ms retrieval |
-
-</div>
+| Area | Result |
+|------|--------|
+| 🧠 Atlas AI: hybrid retrieval | **−30% hallucinations, +60% recall** vs a dense-only baseline |
+| ⚡ Atlas AI: 3-tier caching | **30–40% fewer LLM calls**, **300 ms P90** latency |
+| 🔤 Arabic Legal OCR | CER **0.74 → 0.22** (−70%) with a LoRA-tuned Gemma-3-4b-it |
+| 🧪 AiLixir | **5 GNN ADMET models** at 150–250 ms on CPU · RAG over **1M+ compounds** at sub-150 ms |
+| 🎙️ AiLixir voice agent | **950 ms** time-to-first-audio, bilingual Arabic/English |
+| 📄 Document Intelligence | 41 jobs processed at **87% avg. confidence**, with deterministic business-rule validation |
+| 📊 E-commerce ML | Churn/return **ROC-AUC 0.89** · CLV **R² 0.83** on 400K orders |
 
 ---
 
@@ -68,46 +47,45 @@ What sets my work apart:
 
 <div align="center">
 
-**AI / ML / LLMs / VLMs**
+**LLMs, Agents & Retrieval**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LlamaFactory](https://img.shields.io/badge/LlamaFactory-6B21A8?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 ![vLLM](https://img.shields.io/badge/vLLM-00A86B?style=flat-square)
-
-**Vector DBs & Retrieval**
-
+![PEFT](https://img.shields.io/badge/LoRA/QLoRA-FFD21E?style=flat-square)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Weaviate](https://img.shields.io/badge/Weaviate-00A86B?style=flat-square)
+
+**Backend, MLOps & Cloud**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Computational Biology**
+**Data, ML & Science**
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![RDKit](https://img.shields.io/badge/RDKit-2E8B57?style=flat-square)
 ![Chemprop](https://img.shields.io/badge/Chemprop-005F73?style=flat-square)
 ![OpenMM](https://img.shields.io/badge/OpenMM-0077B6?style=flat-square)
-![DeepPurpose](https://img.shields.io/badge/DeepPurpose-6A0572?style=flat-square)
-![AmberTools](https://img.shields.io/badge/AmberTools-FF6B35?style=flat-square)
-
-**MLOps & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-
-**Data & Analytics**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -115,190 +93,130 @@ What sets my work apart:
 
 ## 🚀 Featured Projects
 
-### 🔬 [Computational Drug Discovery & Repurposing Platform](https://github.com/Yasmeen-code/AILIXIR_BackEnd) ⭐ Graduation Project
+### 🧬 AiLixir: Multi-Agent Scientific OS for Drug Discovery ⭐ Graduation Project
+[Live Demo](https://scientific-operating-system.vercel.app/) · [Backend Repo](https://github.com/Yasmeen-code/AILIXIR_BackEnd/) · [Desktop App](https://github.com/RottenShadow/AiLixir/tags)
 
-> *Production-grade computational biology platform unifying Chemical RAG, ADMET prediction, drug repurposing, and molecular dynamics simulation into a single async backend*
+> I led a 9-person team and built 5 of the AI services plus the backend. Validated by medical and pharmacy faculty and now at the commercialization stage.
 
-```
-Stack: Flask · FAISS-IVF · RDKit · Chemprop · PyTorch Lightning · DeepPurpose · OpenMM · AmberTools · PyTraj · Docker · asyncio
-```
+- 🤖 **Multi-agent backend** (FastAPI, LlamaIndex, Groq, MCP) routes text and voice queries to Chemical, Medical, RAG and Conversational agents
+- 🔬 **Chemical RAG** over **1M+ compounds** (FAISS-IVF, Llama-3.1-8B grounded with RDKit), sub-150 ms retrieval
+- ⚗️ **ADMET prediction**: 5 task-specific MPNNs (Chemprop) at 150–250 ms on CPU, **R²/ROC-AUC 0.70–0.88** vs 0.42–0.78 for a Morgan-fingerprint MLP baseline
+- 🎙️ **Real-time bilingual voice agent**: WebSocket + VAD, Whisper STT, streaming tokens, mid-stream interruption, **950 ms TTFT**
+- 💊 Drug repurposing (DeepPurpose), generative design (REINVENT4), docking and MD simulation
+- 🚢 Deployed on Hugging Face Spaces (Docker) with GitHub Actions CI/CD
 
-- 🧬 **Chemical RAG at Scale**: FAISS-IVF index over **1M+ PubChem compounds** with 2048-bit Morgan Fingerprints — sub-100ms similarity retrieval; enriched Llama-3.1-8B with RDKit physicochemical properties instead of fine-tuning
-- ⚗️ **ADMET Optimization**: Evolved 5 MPNN models (Chemprop) from sequential pipeline (**~10–12s**) to fully async concurrent inference — achieving **50–150ms** single-molecule prediction on CPU only
-- 💊 **Drug Repurposing Pipeline**: High-throughput screening of **5,000+ approved drugs** against protein targets using DeepPurpose binding-affinity models + automated Open Targets & UniProt enrichment
-- 🔬 **Molecular Dynamics**: 9-step scientific protocol (PDBFixer → AmberTools → OpenMM → PyTraj RMSD analysis) productized into a single autonomous API with real-time status updates
-- 📦 **Offline-first architecture**: Local PDB cache + TDC drug data — delivering **10x+ latency improvement** under poor network conditions; deployed via multi-stage Docker
-
-`Computational Biology` `Drug Discovery` `Chemical RAG` `ADMET` `Async` `Production` `Docker`
-
----
-### 🧠 [Atlas AI Platform — Enterprise Multi-Tenant Agentic RAG](https://github.com/mirofadlalla/Atlas-AI-Platform)
-
-> *Production-grade multi-tenant AI platform with strict isolation, hybrid retrieval, and full observability*
-
-```
-Architecture: Multi-Tenant SaaS · Agentic RAG · LLM Fine-tuning · Real-time Streaming
-```
-
-- 🏛️ **Multi-tenant architecture** with strict data isolation & JWT authentication
-- 🔍 **Hybrid retrieval pipeline**: Dense vectors + BM25 + Re-ranking (Qdrant)
-- ⚡ **3-tier caching** (RAM → Redis → DB) → latency **< 50ms**, cost cut **60–80%**
-- 🇸🇦 **Fine-tuned Qwen2.5-1.5B** (LoRA/QLoRA) for Arabic language tasks
-- 📊 **Full observability** via Prometheus + Grafana (latency, token usage, cost)
-- 🌊 **LLM streaming** with real-time cost tracking per request
-
-`System Design` `LLMs` `RAG` `Scalability` `Production` `Arabic NLP`
+`Multi-Agent` `MCP` `Chemical RAG` `ADMET` `Voice AI` `Drug Discovery`
 
 ---
 
-### 🔤 [Arabic Legal OCR — Fine-tuning Vision-Language Models for Structured Extraction](https://github.com/mirofadlalla/ArabicOCR-VLM-Pipeline)
+### 🏛️ [Atlas AI: Multi-Tenant Agentic RAG Platform](https://github.com/mirofadlalla/Atlas-AI-Platform)
+[Live Frontend](https://atlas-ai-frontend-tafu.vercel.app/) · Backend on AWS EC2
 
-> *Production VLM fine-tuning pipeline achieving 70% CER improvement on Arabic legal documents*
+> A production-deployed, secure, observable agentic RAG system.
 
-```
-Stack: PyTorch · LlamaFactory · LoRA/QLoRA · vLLM · Gemma-3-4b-it · HuggingFace PEFT
-```
+- 🧩 **LangGraph agent** that decomposes multi-step queries and routes them to SQL or hybrid-retrieval tools
+- 🔍 **Hybrid retrieval** (Qdrant dense + BM25 + cross-encoder re-ranking): **−30% hallucinations, +60% recall** vs dense-only
+- ⚡ **3-tier cache** (memory → Redis semantic → DB): 30–40% fewer LLM calls, 300 ms P90
+- 🔐 **Security**: multi-layer tenant isolation, sqlglot AST-based SQL validation, tenant ID taken from JWT, RBAC, prompt-injection neutralization
+- 🛡️ **Reliability**: LLM/DB circuit breakers, loop detection and step budgets, numeric-grounding validation, evaluation harness with LangSmith
+- 🚢 **Infra**: Docker Compose on EC2, GitHub Actions (tests, Trivy scan, auto-migrations, health-checked deploy with auto-rollback), separate vLLM EC2 for the fine-tuned model
+- 📈 **Observability**: Prometheus + Grafana, OpenTelemetry tracing, per-request token/cost tracking
 
-- 🎯 **Fine-tuned Gemma-3-4b-it** (4B params) using LoRA on Arabic legal documents: CER **0.74 → 0.22** — a **70% improvement** — lifting OCR accuracy from **~26% to ~78%**
-- 📜 **Data Pipeline**: Scraped and processed **72+ legal documents** from the Saudi Ministry of Justice API; used knowledge distillation with Gemini 2.5 Pro to generate structured JSON training labels
-- 🗂️ **Dual-task extraction**: Outputs structured document content + metadata (issuing authority, dates, signatures) with confidence scoring
-- ⚡ **Production inference**: Deployed via vLLM with multi-LoRA support; trained with 4-bit NF4 quantization on a consumer **RTX 4050 GPU**
-
-`Arabic NLP` `OCR` `Vision-Language Models` `LoRA` `vLLM` `Fine-tuning` `Legal AI`
-
----
-
-### 🛒 [E-Commerce Customer Analytics & Predictive ML Pipeline](https://github.com/mirofadlalla/ecommerce-customer-analytics-ml-pipeline)
-
-> *Full-stack data science pipeline: 400K orders → business insights → deployed ML APIs*
-
-```
-Dataset: 400K orders · 150K customers · $49.8M revenue
-```
-
-- 📊 Deep EDA uncovering **>$6M return losses** and only **5–7% retention rate**
-- 🔢 **Feature engineering**: RFM scores, return rates, behavioral signals
-- 🤖 **ML models deployed**:
-  - XGBoost churn predictor: **ROC-AUC 0.89**
-  - Customer Lifetime Value: **R² = 0.83**
-  - Customer segmentation via KMeans
-- 🚀 **FastAPI REST APIs** + **Power BI dashboards** for stakeholder reporting
-
-`Data Science` `Machine Learning` `Business Impact` `FastAPI` `Power BI`
+`Agentic RAG` `LangGraph` `Multi-Tenant` `AWS` `Observability`
 
 ---
 
-### 📊 [Marketing Campaign Optimization System](https://github.com/mirofadlalla/Marketing-Campaign-Optimization-System)
+### 📄 [Document Intelligence Platform](https://github.com/mirofadlalla/Document-Intelligence-Platform)
+[Live Demo](https://document-intelligence-platform-ten.vercel.app/)
 
-> *End-to-end ML system predicting conversion rates across 200K+ campaigns*
+> Email-to-decision automation: turns emails and attachments (PDF, DOCX, scans) into an auditable **APPROVE / HUMAN REVIEW / REJECT** decision.
 
-- 🎯 Full ML pipeline: preprocessing → feature engineering → training → deployment
-- 📦 **MLflow** for experiment tracking, model registry & versioning
-- ⚠️ **Data drift detection** & production monitoring
-- 🔌 **FastAPI** real-time prediction endpoint
-- 📈 Multi-channel analysis: CTR, ROI, engagement segmentation
+- 🧠 **LLM extracts, code decides**: the LLM only extracts structured data, and deterministic rules validate totals, tax, vendors and regex checks
+- 🔗 **Cross-document matching** reconciles invoice lines against delivery notes and flags quantity mismatches
+- 🗂️ Strategy/Factory parsing layer with OCR fallback and 0–1 confidence scoring
+- 📊 41 jobs processed at 87% average confidence (13 approved / 19 human review / 9 rejected)
+- 🧱 FastAPI (fully async) · React/TypeScript · MongoDB · PaddleOCR · Groq · Docker
 
-`Production ML` `MLOps` `MLflow` `FastAPI` `Analytics`
-
----
-
-### 🔬 [DeepRAG — MLOps-Ready Advanced RAG System](https://github.com/mirofadlalla/DeepRAG)
-
-> *Research-grade RAG system with full evaluation framework and MLflow lifecycle tracking*
-
-- 🔍 **Modular hybrid retrieval**: FAISS IVF + BM25 + Cross-encoder re-ranking
-- 📈 Retrieval improvements: **MRR +60%** · **Precision@K +80%**
-- 🛡️ **Hallucination detection** + answer grounding validation
-- 📊 **Retrieval stability tracking** integrated with MLflow
-
-`Advanced RAG` `Retrieval` `Evaluation` `Research` `MLflow`
+`Document AI` `OCR` `Automation` `Full-Stack`
 
 ---
 
 ### ⚙️ [LLMOps Platform](https://github.com/mirofadlalla/LLM-Platform-LLMOps-System)
+[Live](https://llm-platform-llm-ops-system.vercel.app)
 
-> *Scalable platform for prompt management, versioning, and LLM evaluation at scale*
+- 🗂️ Prompt versioning with diffing and one-click rollback
+- ✅ **Regression testing** of every prompt version against golden examples with an LLM-as-judge
+- 🆚 Pairwise **A/B testing** with preference voting, plus batch experiments across versions
+- 💸 Per-run cost, token and latency tracking · multi-provider LLM layer
+- 🔐 JWT + API-key auth, Redis rate limiting · Celery workers · PostgreSQL · React 19 / Vite
 
-- 🗂️ **Prompt versioning** with regression testing framework
-- 🤖 **LLM-as-judge** evaluation system
-- 🔄 **Async processing** via Celery + PostgreSQL
-- 🔐 Production-ready: auth, structured logging, distributed tracing
-
-`LLMOps` `Prompt Engineering` `Backend` `Celery` `PostgreSQL`
-
----
-
-## 📁 Other Projects
-
-<details>
-<summary><b>📊 Data Analytics & SQL</b></summary>
-
-- **Coffee Sales Insights** — Market expansion analysis via SQL
-- **Pizza Sales & Customer Segmentation** — BI + behavioral analytics
-- **Library Management System** — DDL, DML, stored procedures, reporting
-- **Netflix Database System** — Complex query systems & analysis
-
-</details>
-
-<details>
-<summary><b>🤖 Machine Learning</b></summary>
-
-- **Uber Fare Prediction** — Regression + trip analysis
-- **Fraud Detection** — Bill authentication with ensemble methods
-- **Marketing Analytics Pipelines** — Conversion & ROI optimization
-
-</details>
-
-<details>
-<summary><b>🗣️ NLP Applications</b></summary>
-
-- **Resume Analyzer & Classifier** — NLP-powered document intelligence
-- **Sentiment Analysis** — RoBERTa fine-tuning + classical NLP
-- **Twitter NLP Pipelines** — Preprocessing & text normalization
-- **FastAPI NLP Services** — Auth + rate limiting + production deployment
-
-</details>
-
-<details>
-<summary><b>⚙️ Systems & Foundations</b></summary>
-
-- **Compiler Project** — High-level language → assembly pipeline
-  > *Strong foundation in algorithms, parsing, and systems architecture*
-
-</details>
+`LLMOps` `Evaluation` `Celery` `FastAPI`
 
 ---
 
-## 🎯 Currently Working On
+### 🔤 [Arabic Legal OCR: Fine-tuning VLMs for Structured Extraction](https://github.com/mirofadlalla/ArabicOCR-VLM-Pipeline)
 
-- 🔭 Building next-gen **Agentic RAG** systems with multi-step reasoning
-- 🌍 Advancing **Arabic NLP** capabilities through LLM & VLM fine-tuning
-- 🧬 Pushing the frontier of **AI in Computational Biology**
-- ⚡ Pushing latency & cost optimization in production AI infrastructure
-- 🔗 Exploring **multi-modal AI** systems integration
+- 🎯 **LoRA fine-tune of Gemma-3-4b-it** on 72+ Saudi Ministry of Justice documents (Gemini-distilled labels): **CER 0.74 → 0.22**
+- 🚀 Served with vLLM (multi-LoRA); trained with 4-bit quantization on a consumer GPU
+
+`Arabic NLP` `VLM` `OCR` `LoRA` `vLLM`
 
 ---
 
-## 📫 Let's Connect
+### 🔭 Spectral Foundation Model for Multi-Gas FTIR Sensing (Si-Ware Spectroscopy Challenge)
 
-<div align="center">
+- 🧪 Self-supervised **masked-patch Transformer** (~0.8M params) pretrained on **2.85M unlabeled spectra**, with frozen-encoder heads for 108-gas detection and concentration
+- 📉 **27.8× lower** hidden-patch MSE than linear interpolation; beats a raw-spectrum MLP in the low-label regime (0.1–1% labels)
+- 🧾 Groq-based explainer/validator layer; limitations documented (recall 0.44, weaker noise robustness)
 
-| Channel | Link |
-|---------|------|
-| 💼 LinkedIn | [linkedin.com/in/omar-fadlalla](https://www.linkedin.com/in/omar-fadlalla) |
-| 🌐 Portfolio | [omar-yaser-portfolio.vercel.app](https://omar-yaser-portfolio.vercel.app) |
-| 📧 Email | [omaryaser311@gmail.com](mailto:omaryaser311@gmail.com) |
+`Self-Supervised Learning` `Transformers` `Spectroscopy` `PyTorch`
 
-**🚀 Open to AI/ML roles and collaborations**
+---
 
-</div>
+### 🎓 Course Advisor Agent and Student Analytics (Kayfa)
+[Course Advisor (HF Space)](https://huggingface.co/spaces/OmarFadlallah/Course_Advisor_Agent) · [Analytics Dashboard](https://student-performance-analytics-platform-h9avzyzfoqtnpt3hrjf3vy.streamlit.app/)
+
+- 🤖 Hybrid-RAG advising agent: FastAPI, PydanticAI, LlamaIndex, MongoDB, Groq, streaming responses, JWT-secured conversations
+- 📊 Streamlit/Plotly dashboard unifying 8 data sources for 500+ students, with K-Means risk segmentation
+
+---
+
+## 🧰 More Projects
+
+| Project | What it is |
+|---------|-----------|
+| [**Qwen2.5-1.5B LoRA/QLoRA**](https://github.com/mirofadlalla/Qwen-LLM-Fine-Tuning-LoRA-QLoRA) | Arabic news parsing into Pydantic JSON schemas; fixed language drift and schema compliance; served via vLLM with runtime LoRA injection |
+| **Saudi Arabic TTS Data Pipeline** | WhisperX + multi-signal boundary detection + 100-point clip scoring, producing an F5-TTS-ready dataset |
+| [**Marketing Campaign Optimization**](https://github.com/mirofadlalla/Marketing-Campaign-Optimization-System) | End-to-end MLOps (ZenML, MLflow registry, FastAPI, drift detection), XGBoost R² 0.87 on 200K+ campaigns |
+| [**FinGuard**](https://github.com/mirofadlalla/FinGuard-AI-Powered-Financial-Fraud-Detection-Platform) | Fraud detection with XGBoost, SHAP explainability, drift monitoring and a GenAI investigation assistant |
+| [**E-Commerce Analytics & ML**](https://github.com/mirofadlalla/ecommerce-customer-analytics-ml-pipeline) | 400K orders, $49.8M revenue, $6M+ return losses found, 4 models behind FastAPI, Power BI dashboards |
+| [**Protein-Ligand MD Simulation API**](https://github.com/mirofadlalla/Protein-Ligand-MD-Simulation-System) | Flask REST API wrapping OpenMM and AmberTools in Docker |
+| [**Library Management (T-SQL)**](https://github.com/mirofadlalla/Library-Management-SQL-Project) | 6-table normalized schema, CTEs, window functions, stored procedures |
+| [**Movie Recommender**](https://colab.research.google.com/drive/1AHUoP7f9sG3F_xfo1WGYeHBjVLo_IL9v?usp=sharing) | Content-based, SVD and hybrid recommenders on MovieLens 1M |
+
+---
+
+## 💼 Experience
+
+- **Analytics & Agentic AI Intern**, Kayfa (Jun 2026 – present)
+- **AI Engineer Intern**, Devoteam, remote (Dec 2025 – Feb 2026): real-time drowsiness detector (OpenCV, TensorFlow, ONNX; 97.4% eye-state accuracy) and two enterprise AI proofs of concept
+- **Backend Software Engineer (Part-Time)**, Evolutionary Mobile Coding (Aug 2024 – Jul 2025): Laravel APIs and database optimization in a 5-person team
+
+**Certifications:** NVIDIA DLI Generative AI Professional Track (with ITI) · NVIDIA DLI Building LLM Applications With Prompt Engineering · NTI AI for Business
+
+---
+
+## 🎯 Currently
+
+- 🚀 Taking **AiLixir** toward commercialization
+- 🤖 Building agentic RAG systems with evaluation and observability built in
+- 🎙️ Fine-tuning Arabic TTS/STT models
+- 🌍 **Open to AI / Agentic AI engineering roles** in Egypt and the Gulf, remote or open to relocation
 
 ---
 
 <div align="center">
 
-*"Engineering AI systems that deliver real impact — from data to production."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=mirofadlalla&color=0e75b6&style=flat-square)
+*Engineering AI systems that deliver real impact, from data to production.*
 
 </div>
